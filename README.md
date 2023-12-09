@@ -1,0 +1,2 @@
+# eosInscibe
+eos Inscibe script
